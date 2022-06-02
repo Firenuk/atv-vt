@@ -1,0 +1,24 @@
+.login-center {
+    border-radius: 2%;
+    padding: 5%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+body{
+    background:no-repeat url(../bootstrap/css/img/papel\ de\ parede\ 1.jpg)  ;
+    background-size: cover;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(220, 14, 14);
+    margin-top: 2%;
+}
+
+i {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
